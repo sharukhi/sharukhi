@@ -5,5 +5,6 @@ I'm an indie developer based in Bangladesh. I specialize in building web applica
 You can find more from me at the following links:
 
  - Website: [sharukhi.xyz](https://sharukhi.xyz/)
+ - E-mail: [sharukhi@sharukhi.xyz](mailto:sharukhi@sharukhi.xyz)
  - X (formerly Twitter): [@sharukhi_](https://x.com/sharukhi_)
  
