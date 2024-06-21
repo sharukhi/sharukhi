@@ -1,6 +1,6 @@
 Hi 👋 I'm Sharukhi!
 
-I'm an indie developer based in Bangladesh. I specialize in building web applications and sites using Javascript, Svelte & Flask. I am always up for a challenge and eager to learn and grow. I am also excited about where my love for technology will take me in the future! 
+Hi, I’m an indie developer based in Bangladesh, currently focused on building full-stack applications. I’m always up for a challenge and eager to learn. I’m also excited about where my love for technology will take me in the future!
 
 If you want to get in touch with me about something or just to say hi, reach out on social media or send me an email.
 
