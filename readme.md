@@ -4,7 +4,7 @@ an indie developer based in Bangladesh, currently focused on building full-stack
 
 If you want to get in touch with me about something or just to say hi, reach out on social media or send me an email.
 
- - Website: [sharukhi.xyz](https://sharukhi.xyz/)
- - E-mail: [mail@sharukhi.xyz](mailto:mail@sharukhi.xyz)
+ - Website: [sharukhi.net](https://sharukhi.net/)
+ - E-mail: [mail@sharukhi.net](mailto:mail@sharukhi.net)
  - X (formerly Twitter): [@sharukhi_](https://x.com/sharukhi_)
  
